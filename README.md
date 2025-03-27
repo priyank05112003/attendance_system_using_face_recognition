@@ -1,4 +1,4 @@
-# attendance_system_using_face_recognition
+# Attendance_system_using_face_recognition
 
 ## Team Members:
 - Priyank Shekhar
